@@ -2,7 +2,7 @@
 ----
 ## what is LCD_NUMBERS_DETECTION?
 
-> 是LED數字辯視器
+> LED數字辯視
 
 ----
 ## function
